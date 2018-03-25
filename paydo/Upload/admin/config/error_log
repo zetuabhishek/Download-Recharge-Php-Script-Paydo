@@ -1,0 +1,1 @@
+[23-Mar-2018 06:52:31 Etc/GMT] PHP Notice:  Undefined index: payment_secret_key	 in /home/gffyj/public_html/test/config/config.php on line 30
